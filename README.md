@@ -1,2 +1,2 @@
-# parterek
+# parteek
 hello world
